@@ -1,11 +1,4 @@
-<<<<<<< HEAD
-# Laravel-9
-#Laravel 9
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-# Laravel-9
-#
+
 =======
 # Laravel 9 Stock Management System
 
@@ -29,10 +22,3 @@ open source
 
 ---
 
-
->>>>>>> 51ada78 (first commit)
-=======
-# Laravel-9
-#Laravel 9
->>>>>>> 0c3bc52372437ef4606f902d222cf04cd858030b
->>>>>>> e0f629f (first commit)
